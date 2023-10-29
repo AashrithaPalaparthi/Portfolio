@@ -1,0 +1,74 @@
+
+ body{
+    background-color: rgb(110, 204, 255);
+ }
+ 
+ .info{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  font-family: American Typewriter, serif;
+  width: 50%;
+}
+
+.name{
+    margin-bottom: 0%;
+}
+
+.cloud{
+    margin-left: 90%;
+    margin-bottom: 10%;
+}
+
+.cloud2{
+    margin-right: 90%;
+    margin-top: 10%;
+}
+
+.mountain{
+    margin-left: 10%;
+    margin-top:10%;
+    margin-bottom: 0%;
+}
+
+.school{
+    font-family: American Typewriter, serif;
+    background-color: rgb(190, 255, 180); 
+    text-align: center;
+}
+
+.dino{
+    border-radius: 50%;
+    margin-top: 10%;
+}
+
+.rj{
+    margin-top: 2%;
+}
+
+.gold{
+    background-color: gold;
+    margin-top: -1.35%;
+    text-align: center;
+    font-family: American Typewriter, serif;
+}
+
+.favorites{
+    margin-top: 0%;
+    background-color: rgb(110, 204, 255);
+    font-family: American Typewriter, serif;
+    text-align: center;
+}
+
+.list{
+    margin-top: 2%;
+}
+
+.contacts{
+    background-color: gold;
+    margin-top: 1%;
+    text-align: center;
+    font-family: American Typewriter, serif;
+}
